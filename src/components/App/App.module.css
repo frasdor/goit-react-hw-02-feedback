@@ -1,0 +1,11 @@
+.appContainer {
+    height: 100vh; /* Wysokość pełnego ekranu */
+    display: flex;
+    flex-direction: column; /* Układ w kolumnie */
+    justify-content: center; 
+    align-items: center; /* Wyśrodkowanie w poziomie */
+    gap: 20px; /* Odstępy między elementami */
+    padding: 20px;
+    font-size: 18px; /* Mniejsza czcionka dla lepszej czytelności */
+    color: #010101;
+  }

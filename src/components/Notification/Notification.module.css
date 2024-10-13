@@ -1,0 +1,13 @@
+.notification {
+    padding: 15px; /* Odstęp wewnętrzny */
+    margin: 20px 0; /* Odstęp górny i dolny */
+    border-radius: 5px; /* Zaokrąglone rogi */
+    background-color: #f8d7da; /* Kolor tła dla negatywnych powiadomień */
+    color: #721c24; /* Kolor tekstu */
+    border: 1px solid #f5c6cb; /* Ramka w kolorze podobnym do tła */
+    font-size: 16px; /* Rozmiar czcionki */
+    text-align: center; /* Wyśrodkowanie tekstu */
+    transition: all 0.3s ease; /* Efekt przejścia */
+    width: 300px;
+    
+}

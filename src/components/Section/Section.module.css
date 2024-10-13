@@ -1,0 +1,18 @@
+  /* App.module.css */
+  .sectionTitle {
+    font-size: 24px; /* Zwiększ rozmiar czcionki */
+    color:  rgb(81, 60, 100); /* Zmień kolor czcionki (niebieski) */
+    text-align: center; /* Wyśrodkowanie tekstu */
+    margin-bottom: 20px; /* Odstęp od dolnej części */
+}
+
+.section {
+    background-color:  rgb(238, 227, 248); /* Kolor tła sekcji */
+    border-radius: 5px; 
+    padding: 20px; /* Wewnętrzne odstępy */
+    width: 400px; /* Stała szerokość */
+    min-height: 200px; /* Minimalna wysokość, aby zapobiec zmniejszaniu się sekcji */
+    margin: 20px auto; /* Margines górny i dolny oraz wyśrodkowanie w poziomie */
+    border: 1px solid #ccc; /* Opcjonalnie, ramka */
+    border-radius: 5px; /* Zaokrąglone rogi *//* width: 100%; Ustala szerokość sekcji */
+}
