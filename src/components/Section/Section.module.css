@@ -1,19 +1,19 @@
-  /* App.module.css */
+ 
   .sectionTitle {
-    font-size: 24px; /* Zwiększ rozmiar czcionki */
-    color:  rgb(81, 60, 100); /* Zmień kolor czcionki (niebieski) */
-    text-align: center; /* Wyśrodkowanie tekstu */
-    margin-bottom: 20px; /* Odstęp od dolnej części */
+    font-size: 24px; 
+    color:  rgb(81, 60, 100); 
+    text-align: center; 
+    margin-bottom: 20px; 
 }
 
 .section {
-    background-color:  rgb(238, 227, 248); /* Kolor tła sekcji */
+    background-color:  rgb(238, 227, 248); 
     border-radius: 5px; 
-    padding: 20px; /* Wewnętrzne odstępy */
-    width: 400px; /* Stała szerokość */
-    min-height: 200px; /* Minimalna wysokość, aby zapobiec zmniejszaniu się sekcji */
-    margin: 20px auto; /* Margines górny i dolny oraz wyśrodkowanie w poziomie */
-    border: 1px solid #ccc; /* Opcjonalnie, ramka */
+    padding: 20px; 
+    width: 400px; 
+    min-height: 200px; 
+    margin: 20px auto; 
+    border: 1px solid #ccc; 
     border-radius: 5px; 
     
 }
