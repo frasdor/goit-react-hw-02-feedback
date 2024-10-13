@@ -14,5 +14,6 @@
     min-height: 200px; /* Minimalna wysokość, aby zapobiec zmniejszaniu się sekcji */
     margin: 20px auto; /* Margines górny i dolny oraz wyśrodkowanie w poziomie */
     border: 1px solid #ccc; /* Opcjonalnie, ramka */
-    border-radius: 5px; /* Zaokrąglone rogi *//* width: 100%; Ustala szerokość sekcji */
+    border-radius: 5px; 
+    
 }
